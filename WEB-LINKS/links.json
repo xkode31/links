@@ -1,0 +1,860 @@
+.links({
+    "Web-developer": [
+        {
+            "name": "CSS Basics",
+            "content": [
+                {
+                    "link_text": "CSS-TRICKS - The Difference Between ID and Class",
+                    "link_src": "https://css-tricks.com/the-difference-between-id-and-class/"
+                },
+                {
+                    "link_text": "MOZILLA DOCS - CSS reference",
+                    "link_src": "https://developer.mozilla.org/en-US/docs/Web/CSS/Reference"
+                },
+                {
+                    "link_text": "Specificity Calculator",
+                    "link_src": "http://specificity.keegan.st/"
+                },
+                {
+                    "link_text": "LESS - Getting started",
+                    "link_src": "http://lesscss.org/"
+                },
+                {
+                    "link_text": "SASS - CSS with superpowers",
+                    "link_src": "http://sass-lang.com/"
+                },
+                {
+                    "link_text": "STYLUS - Expressive, Dynamic,  Robust CSS",
+                    "link_src": "http://stylus-lang.com/"
+                },
+                {
+                    "link_text": "CSS-TRICKS - Sass vs Less",
+                    "link_src": "http://css-tricks.com/sass-vs-less/"
+                },
+                {
+                    "link_text": "HONGKIAT - CSS Preprocessors Compared: Sass vs. LESS",
+                    "link_src": "http://www.hongkiat.com/blog/sass-vs-less/"
+                },
+                {
+                    "link_text": "Sass vs. LESS vs. Stylus: Preprocessor Shootout",
+                    "link_src": "https://code.tutsplus.com/tutorials/sass-vs-less-vs-stylus-preprocessor-shootout--net-24320"
+                }
+				]
+			},
+        {
+            "name": "",
+            "content": [
+                {
+                    "link_text": "",
+                    "link_src": ""
+                },
+                {
+                    "link_text": "",
+                    "link_src": ""
+                },
+                {
+                    "link_text": "",
+                    "link_src": ""
+                },
+                {
+                    "link_text": "",
+                    "link_src": ""
+                }
+				]
+			},
+        {
+            "name": "HTML5 Bases & History",
+            "content": [
+                {
+                    "link_text": "Jeremy Keith - A Book Apart",
+                    "link_src": "http://www.0to255.com/"
+                },
+                {
+                    "link_text": "CERN - Accelerating science",
+                    "link_src": "http://home.cern/"
+                },
+                {
+                    "link_text": "W3C - World Wide Web Consortium",
+                    "link_src": "https://www.w3.org/"
+                },
+                {
+                    "link_text": "WHATWG - the WHATWG community",
+                    "link_src": "https://whatwg.org/"
+                },
+                {
+                    "link_text": "You Only Need 10 HTML Tags",
+                    "link_src": "http://www.99lime.com/_bak/topics/you-only-need-10-tags/"
+                },
+                {
+                    "link_text": "HTML5 Doctor - Element Index",
+                    "link_src": "http://html5doctor.com/element-index/"
+                },
+
+                {
+                    "link_text": "MOZILLA DOCS - Block-level elements",
+                    "link_src": "https://developer.mozilla.org/en-US/docs/Web/HTML/Block-level_elements"
+                },
+                {
+                    "link_text": "MAXDESIGN - Inline elements and padding",
+                    "link_src": "http://maxdesign.com.au/articles/inline/"
+                },
+                {
+                    "link_text": "IMPRESSIVEWEBS - What is Inline-Block?",
+                    "link_src": "https://www.impressivewebs.com/inline-block/"
+                },
+                {
+                    "link_text": "MOZILLA DOCS - HTML sections and outlines",
+                    "link_src": "https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Using_HTML_sections_and_outlines#The_HTML5_Outline_Algorithm"
+                },
+                {
+                    "link_text": "HTML5 Doctor - HTML5 Element Flowchart",
+                    "link_src": "http://html5doctor.com/downloads/h5d-sectioning-flowchart.png"
+                },
+                {
+                    "link_text": "Nº9 A FORM OF MADNESS",
+                    "link_src": "http://diveintohtml5.info/forms.html"
+                },
+                {
+                    "link_text": "5BY5 - The Web Ahead",
+                    "link_src": "http://5by5.tv/webahead/47"
+                }
+				]
+			},
+        {
+            "name": "Color-Generate",
+            "content": [
+                {
+                    "link_text": "0to255",
+                    "link_src": "http://www.0to255.com/"
+                },
+                {
+                    "link_text": "Colorzilla",
+                    "link_src": "http://www.colorzilla.com/gradient-editor/"
+                },
+                {
+                    "link_text": "Contrast-finder",
+                    "link_src": "http://contrast-finder.tanaguru.com/"
+                },
+                {
+                    "link_text": "Coveloping",
+                    "link_src": "http://coveloping.com/"
+                },
+                {
+                    "link_text": "Css3shapes",
+                    "link_src": "http://www.css3shapes.com/"
+                },
+                {
+                    "link_text": "Design-seeds",
+                    "link_src": "http://design-seeds.com/"
+                },
+                {
+                    "link_text": "Gradients_inflex",
+                    "link_src": "http://geotests.net/couleurs/gradients_inflex.html#"
+                },
+                {
+                    "link_text": "Hexcolortool",
+                    "link_src": "http://www.hexcolortool.com/"
+                },
+                {
+                    "link_text": "Materialpalette",
+                    "link_src": "http://www.materialpalette.com/"
+                },
+                {
+                    "link_text": "Paletton",
+                    "link_src": "http://paletton.com/#uid=1000u0kllllaFw0g0qFqFg0w0aF"
+                },
+                {
+                    "link_text": "Rizzo.Lonelyplanet",
+                    "link_src": "http://rizzo.lonelyplanet.com/styleguide/design-elements/colours"
+                },
+                {
+                    "link_text": "Thecolorsofmotion",
+                    "link_src": "http://thecolorsofmotion.com/films"
+                },
+                {
+                    "link_text": "Tools Webdirections",
+                    "link_src": "http://tools.webdirections.org/"
+                }
+				]
+			},
+        {
+            "name": "Back-End",
+            "content": [
+                {
+                    "link_text": "Cakephp",
+                    "link_src": "https://github.com/cakephp/cakephp"
+                },
+                {
+                    "link_text": "Django",
+                    "link_src": "https://github.com/django/django"
+                },
+                {
+                    "link_text": "Laravel",
+                    "link_src": "https://github.com/laravel/laravel"
+                },
+                {
+                    "link_text": "Rails",
+                    "link_src": "https://github.com/rails/rails"
+                },
+                {
+                    "link_text": "Symfony",
+                    "link_src": "https://github.com/symfony/symfony"
+                },
+                {
+                    "link_text": "Slim",
+                    "link_src": "https://github.com/slimphp/Slim"
+                }
+				]
+			},
+        {
+            "name": "Front-End",
+            "content": [
+                {
+                    "link_text": "Animate.css",
+                    "link_src": "https://github.com/daneden/animate.css"
+                },
+                {
+                    "link_text": "Blueprint-css",
+                    "link_src": "https://github.com/joshuaclayton/blueprint-css"
+                },
+                {
+                    "link_text": "Bootstrap",
+                    "link_src": "https://github.com/twbs/bootstrap"
+                },
+                {
+                    "link_text": "Caniuse",
+                    "link_src": "http://caniuse.com/"
+                },
+                {
+                    "link_text": "CSS-Framework-Comparison",
+                    "link_src": "http://responsive.vermilion.com/compare.php"
+                },
+                {
+                    "link_text": "Cssreset",
+                    "link_src": "http://www.cssreset.com/"
+                },
+                {
+                    "link_text": "Foundation",
+                    "link_src": "https://github.com/zurb/foundation"
+                },
+                {
+                    "link_text": "Hover.css",
+                    "link_src": "http://ianlunn.github.io/Hover/"
+                },
+                {
+                    "link_text": "Modernizr",
+                    "link_src": "https://github.com/Modernizr/Modernizr"
+                },
+                {
+                    "link_text": "Normalize",
+                    "link_src": "https://github.com/necolas/normalize.css"
+                }
+				]
+			},
+        {
+            "name": "CSS-Generate",
+            "content": [
+                {
+                    "link_text": "Bouncejs",
+                    "link_src": "http://bouncejs.com/"
+                },
+                {
+                    "link_text": "Clippy",
+                    "link_src": "http://bennettfeely.com/clippy/"
+                },
+                {
+                    "link_text": "Color-Hailpixel",
+                    "link_src": "http://color.hailpixel.com/"
+                },
+                {
+                    "link_text": "Coveloping",
+                    "link_src": "http://coveloping.com/"
+                },
+                {
+                    "link_text": "Css3buttongenerator",
+                    "link_src": "http://css3buttongenerator.com/"
+                },
+                {
+                    "link_text": "Css3generator",
+                    "link_src": "http://css3generator.com/"
+                },
+                {
+                    "link_text": "Css3please",
+                    "link_src": "http://css3please.com/"
+                },
+                {
+                    "link_text": "Css3pie",
+                    "link_src": "http://css3pie.com/"
+                },
+                {
+                    "link_text": "Css3shapes",
+                    "link_src": "http://www.css3shapes.com/"
+                },
+                {
+                    "link_text": "Cssarrowplease",
+                    "link_src": "http://cssarrowplease.com/"
+                },
+                {
+                    "link_text": "Cssmatic",
+                    "link_src": "http://www.cssmatic.com/"
+                },
+                {
+                    "link_text": "Enjoycss",
+                    "link_src": "http://enjoycss.com/"
+                },
+                {
+                    "link_text": "Matthewlein",
+                    "link_src": "http://matthewlein.com/ceaser/"
+                },
+                {
+                    "link_text": "Patternify",
+                    "link_src": "http://www.patternify.com/"
+                },
+                {
+                    "link_text": "PXtoEM",
+                    "link_src": "http://pxtoem.com/"
+                },
+                {
+                    "link_text": "Stylie",
+                    "link_src": "http://jeremyckahn.github.io/stylie/"
+                },
+                {
+                    "link_text": "Webdirections",
+                    "link_src": "http://tools.webdirections.org/#text-properties"
+                }
+				]
+			},
+        {
+            "name": "Design-Patterns",
+            "content": [
+                {
+                    "link_text": "Google-Materiel-Design",
+                    "link_src": "http://www.google.com/design/"
+                },
+                {
+                    "link_text": "Oodesign",
+                    "link_src": "http://www.oodesign.com/"
+                },
+                {
+                    "link_text": "PHP-Design-Patterns",
+                    "link_src": "http://www.fluffycat.com/PHP-Design-Patterns/"
+                },
+                {
+                    "link_text": "Tutorialspoint",
+                    "link_src": "http://www.tutorialspoint.com/design_pattern/"
+                }
+				]
+			},
+        {
+            "name": "Fonts-For-Web",
+            "content": [
+                {
+                    "link_text": "Fontawesome",
+                    "link_src": "http://fontawesome.io/"
+                },
+                {
+                    "link_text": "fonts-Simplythebest",
+                    "link_src": "http://fonts.simplythebest.net/"
+                },
+                {
+                    "link_text": "Fontsquirrel",
+                    "link_src": "http://www.fontsquirrel.com/"
+                },
+                {
+                    "link_text": "Google Fonts",
+                    "link_src": "https://www.google.com/fonts"
+                },
+                {
+                    "link_text": "Typecast",
+                    "link_src": "http://typecast.com/"
+                },
+                {
+                    "link_text": "Typekit",
+                    "link_src": "https://typekit.com/"
+                }
+				]
+			},
+        {
+            "name": "Icons-For-Web",
+            "content": [
+                {
+                    "link_text": "Fontastic",
+                    "link_src": "http://fontastic.me/"
+                },
+                {
+                    "link_text": "Fontawesome",
+                    "link_src": "http://fontawesome.io/"
+                },
+                {
+                    "link_text": "Fontello",
+                    "link_src": "http://fontello.com/"
+                },
+                {
+                    "link_text": "Icomoon",
+                    "link_src": "https://icomoon.io/"
+                },
+                {
+                    "link_text": "Unicodeemoticons",
+                    "link_src": "http://unicodeemoticons.com/"
+                }
+				]
+			},
+        {
+            "name": "Images-Generate",
+            "content": [
+                {
+                    "link_text": "Dummyimage",
+                    "link_src": "http://dummyimage.com/"
+                },
+                {
+                    "link_text": "Lorempicsum",
+                    "link_src": "http://lorempicsum.com/#futurama"
+                }
+				]
+			},
+        {
+            "name": "jQuery-Framework",
+            "content": [
+                {
+                    "link_text": "Angular",
+                    "link_src": "https://github.com/angular/angular.js"
+                },
+                {
+                    "link_text": "Javascripting",
+                    "link_src": "http://www.javascripting.com/"
+                },
+                {
+                    "link_text": "Jquery",
+                    "link_src": "http://jquery.com/"
+                },
+                {
+                    "link_text": "Sequence.js",
+                    "link_src": "http://www.sequencejs.com/"
+                }
+				]
+			},
+        {
+            "name": "Json-Generate",
+            "content": [
+                {
+                    "link_text": "Json-generator",
+                    "link_src": "http://www.json-generator.com/"
+                },
+                {
+                    "link_text": "Objgen",
+                    "link_src": "http://www.objgen.com/json"
+                }
+				]
+			},
+        {
+            "name": "Regexp-Generate",
+            "content": [
+                {
+                    "link_text": "Regexp-generator",
+                    "link_src": "http://www.toutjavascript.com/service/regexp.php"
+                },
+                {
+                    "link_text": "Regexp",
+                    "link_src": "http://regexper.com/"
+                }
+				]
+			},
+        {
+            "name": "Lipsum-generate",
+            "content": [
+                {
+                    "link_text": "Faux-texte-generator",
+                    "link_src": "http://www.faux-texte.com/"
+                },
+                {
+                    "link_text": "Lorem-Ipsum-Studiovitamine",
+                    "link_src": "http://lorem-ipsum.studiovitamine.com/"
+                },
+                {
+                    "link_text": "Generator-Lorem-Ipsum",
+                    "link_src": "http://generator.lorem-ipsum.info/"
+                },
+                {
+                    "link_text": "Lipsum-generator",
+                    "link_src": "http://lipsum.com/"
+                }
+				]
+			},
+        {
+            "name": "Learn",
+            "content": [
+                {
+                    "link_text": "Codecademy",
+                    "link_src": "http://www.codecademy.com/"
+                },
+                {
+                    "link_text": "Codepen",
+                    "link_src": "http://codepen.io/"
+                },
+                {
+                    "link_text": "Cssdeck",
+                    "link_src": "http://cssdeck.com/"
+                },
+                {
+                    "link_text": "Grafikart",
+                    "link_src": "http://www.grafikart.fr/tutoriels"
+                },
+                {
+                    "link_text": "JSFiddle",
+                    "link_src": "http://jsfiddle.net/"
+                },
+                {
+                    "link_text": "Openclassrooms",
+                    "link_src": "http://fr.openclassrooms.com/informatique/cours"
+                },
+                {
+                    "link_text": "Thecodeplayer",
+                    "link_src": "http://thecodeplayer.com/"
+                },
+                {
+                    "link_text": "Webdesigntuts+ / Tutorials",
+                    "link_src": "http://webdesign.tutsplus.com/category/tutorials/"
+                }
+				]
+			},
+        {
+            "name": "News",
+            "content": [
+                {
+                    "link_text": "Aykevl",
+                    "link_src": "https://aykevl.nl/"
+                },
+                {
+                    "link_text": "Alistapart",
+                    "link_src": "http://alistapart.com/"
+                },
+                {
+                    "link_text": "Bennettfeely",
+                    "link_src": "http://bennettfeely.com/"
+                },
+                {
+                    "link_text": "Blogduwebdesign",
+                    "link_src": "http://www.blogduwebdesign.com/"
+                },
+                {
+                    "link_text": "Codenip",
+                    "link_src": "http://codenip.com/"
+                },
+                {
+                    "link_text": "Codrops",
+                    "link_src": "http://tympanus.net/codrops/"
+                },
+                {
+                    "link_text": "Codyhouse",
+                    "link_src": "http://codyhouse.co/"
+                },
+                {
+                    "link_text": "Creativebloq",
+                    "link_src": "http://www.creativebloq.com/"
+                },
+                {
+                    "link_text": "Creativejuiz",
+                    "link_src": "http://www.creativejuiz.fr/blog"
+                },
+                {
+                    "link_text": "Css3create",
+                    "link_src": "http://www.css3create.com/"
+                },
+                {
+                    "link_text": "Css-tricks",
+                    "link_src": "http://css-tricks.com/"
+                },
+                {
+                    "link_text": "Hailpixel",
+                    "link_src": "http://www.hailpixel.com/articles/"
+                },
+                {
+                    "link_text": "Makandracards-Makandra",
+                    "link_src": "http://makandracards.com/makandra"
+                },
+                {
+                    "link_text": "Medleyweb",
+                    "link_src": "http://medleyweb.com/"
+                },
+                {
+                    "link_text": "Nicolasgallagher",
+                    "link_src": "http://nicolasgallagher.com/"
+                },
+                {
+                    "link_text": "Openclassrooms",
+                    "link_src": "http://fr.openclassrooms.com/"
+                },
+                {
+                    "link_text": "Tekkie.Flashbit",
+                    "link_src": "http://tekkie.flashbit.net/"
+                },
+                {
+                    "link_text": "Timpietrusky",
+                    "link_src": "http://timpietrusky.com/"
+                },
+                {
+                    "link_text": "Tutorialzine",
+                    "link_src": "http://tutorialzine.com/"
+                },
+                {
+                    "link_text": "Webdesigner-Depot",
+                    "link_src": "http://www.webdesignerdepot.com/"
+                },
+                {
+                    "link_text": "Webdesigner-News",
+                    "link_src": "http://www.webdesignernews.com/"
+                }
+				]
+			},
+        {
+            "name": "Sources-Sketch-3",
+            "content": [
+                {
+                    "link_text": "Brilliantsketch",
+                    "link_src": "http://brilliantsketch.com/"
+                },
+                {
+                    "link_text": "Bohemiancoding",
+                    "link_src": "http://bohemiancoding.com/sketch/"
+                },
+                {
+                    "link_text": "Designcode",
+                    "link_src": "https://designcode.io/sketch"
+                },
+                {
+                    "link_text": "Sketchappsources",
+                    "link_src": "http://www.sketchappsources.com/"
+                },
+                {
+                    "link_text": "Sketchtips",
+                    "link_src": "http://www.sketchtips.info/"
+                }
+				]
+			},
+        {
+            "name": "Tools-For-Developer",
+            "content": [
+                {
+                    "link_text": "Ajaxload",
+                    "link_src": "http://www.ajaxload.info/"
+                },
+                {
+                    "link_text": "Angrytools",
+                    "link_src": "http://angrytools.com/"
+                },
+                {
+                    "link_text": "Apple",
+                    "link_src": "https://developer.apple.com/"
+                },
+                {
+                    "link_text": "DevDocs",
+                    "link_src": "http://devdocs.io/"
+                },
+                {
+                    "link_text": "Chrome",
+                    "link_src": "https://developer.chrome.com/devtools"
+                },
+                {
+                    "link_text": "Csslint",
+                    "link_src": "http://csslint.net/"
+                },
+                {
+                    "link_text": "Daringfireball",
+                    "link_src": "http://daringfireball.net/"
+                },
+                {
+                    "link_text": "Freeformatter",
+                    "link_src": "http://www.freeformatter.com/"
+                },
+                {
+                    "link_text": "Google Design",
+                    "link_src": "http://www.google.fr/design/"
+                },
+                {
+                    "link_text": "Mozilla",
+                    "link_src": "https://developer.mozilla.org/en-US/docs/Tools"
+                },
+                {
+                    "link_text": "Osscdn",
+                    "link_src": "http://osscdn.com/#/"
+                },
+                {
+                    "link_text": "Procssor",
+                    "link_src": "http://tools.maxcdn.com/procssor/"
+                },
+                {
+                    "link_text": "Scriptsrc",
+                    "link_src": "http://scriptsrc.net/"
+                },
+                {
+                    "link_text": "Webtoolhub",
+                    "link_src": "http://www.webtoolhub.com/tools.aspx"
+                },
+                {
+                    "link_text": "Windows",
+                    "link_src": "https://dev.windows.com/en-us/home"
+                }
+				]
+			},
+        {
+            "name": "Extras",
+            "content": [
+                {
+                    "link_text": "Browser-Update",
+                    "link_src": "http://browser-update.org/"
+                },
+                {
+                    "link_text": "Brugbart",
+                    "link_src": "http://brugbart.com/"
+                },
+                {
+                    "link_text": "Cookiechoices",
+                    "link_src": "https://www.cookiechoices.org/"
+                },
+                {
+                    "link_text": "Css-Wizardry",
+                    "link_src": "http://csswizardry.com/"
+                },
+                {
+                    "link_text": "Chromeexperiments",
+                    "link_src": "https://www.chromeexperiments.com/"
+                },
+                {
+                    "link_text": "Html5-css3-pense-bete",
+                    "link_src": "http://www.html5-css3-pense-bete.fr/"
+                },
+                {
+                    "link_text": "HTML2CSS",
+                    "link_src": "http://lab.darklg.me/HTML2CSS/"
+                },
+                {
+                    "link_text": "Outils-web",
+                    "link_src": "http://outils-web.com/"
+                },
+                {
+                    "link_text": "Symbolassist",
+                    "link_src": "http://plasticmind.com/labs/symbolassist/"
+                },
+                {
+                    "link_text": "Stylifyme",
+                    "link_src": "http://stylifyme.com/"
+                },
+                {
+                    "link_text": "Sache",
+                    "link_src": "http://www.sache.in/"
+                },
+                {
+                    "link_text": "Toplivres",
+                    "link_src": "http://toplivres.net/"
+                }
+
+				]
+			},
+        {
+            "name": "Inspirations",
+            "content": [
+                {
+                    "link_text": "Achaquegourmandsonplaisir",
+                    "link_src": "http://achaquegourmandsonplaisir.fr/"
+                },
+                {
+                    "link_text": "Behance",
+                    "link_src": "https://www.behance.net/"
+                },
+                {
+                    "link_text": "Brauntown.Bigcartel",
+                    "link_src": "http://brauntown.bigcartel.com/"
+                },
+                {
+                    "link_text": "Designspiration",
+                    "link_src": "http://designspiration.net/"
+                },
+                {
+                    "link_text": "Disapprovallook",
+                    "link_src": "http://www.disapprovallook.com/"
+                },
+                {
+                    "link_text": "Dribbble",
+                    "link_src": "http://dribbble.com/"
+                },
+                {
+                    "link_text": "html inspiration",
+                    "link_src": "http://htmlinspiration.com/"
+                },
+                {
+                    "link_text": "Jeffcanham",
+                    "link_src": "http://jeffcanham.com/"
+                },
+                {
+                    "link_text": "Pinterest",
+                    "link_src": "http://www.pinterest.com/"
+                },
+                {
+                    "link_text": "Thebestdesigns",
+                    "link_src": "http://www.thebestdesigns.com/"
+                },
+                {
+                    "link_text": "Thepetedesign",
+                    "link_src": "http://www.thepetedesign.com/"
+                },
+                {
+                    "link_text": "Webdesignrepo",
+                    "link_src": "http://www.webdesignrepo.com/"
+                },
+                {
+                    "link_text": "Wookmark",
+                    "link_src": "http://www.wookmark.com/"
+                }
+				]
+			},
+        {
+            "name": "Follow",
+            "content": [
+                {
+                    "link_text": "Macreart",
+                    "link_src": "http://macreart.com/"
+                },
+                {
+                    "link_text": "Behance",
+                    "link_src": "https://www.behance.net/macreart"
+                },
+                {
+                    "link_text": "Codepen",
+                    "link_src": "http://codepen.io/macreart/"
+                },
+                {
+                    "link_text": "Colourlovers",
+                    "link_src": "http://www.colourlovers.com/lover/Macreart"
+                },
+                {
+                    "link_text": "Dribbble",
+                    "link_src": "https://dribbble.com/macreart"
+                },
+                {
+                    "link_text": "Facebook",
+                    "link_src": "https://www.facebook.com/page.macreart"
+                },
+                {
+                    "link_text": "Flickr",
+                    "link_src": "https://www.flickr.com/photos/macreart/"
+                },
+                {
+                    "link_text": "Github",
+                    "link_src": "https://github.com/macreart"
+                },
+                {
+                    "link_text": "Google +",
+                    "link_src": "https://plus.google.com/u/0/111230864593734366508/posts"
+                },
+                {
+                    "link_text": "Pinterest",
+                    "link_src": "http://www.pinterest.com/Macreart/"
+                },
+                {
+                    "link_text": "Twitter",
+                    "link_src": "https://twitter.com/macreart"
+                }
+				]
+			}
+		]
+});
